@@ -1,3 +1,5 @@
+import './css/index.css';
+
 const App = () => {
   return <div>Hello React</div>;
 };
